@@ -1,0 +1,16 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "Testing how to create and use web components",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "author": "Stephen Gregory",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.15.6",
+    "tiny-glob": "^0.2.9"
+  }
+}
